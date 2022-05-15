@@ -1,2 +1,11 @@
-# paint
-Programa en JavaScript para dibujar en pantalla sobre un Canvas.
+**MINI PAINT**
+
+Sistema en proceso de desarrollo al estilo paint.
+
+------------
+
+
+
+Vista Previa:
+
+![](https://i.imgur.com/z76dUBr.png)
